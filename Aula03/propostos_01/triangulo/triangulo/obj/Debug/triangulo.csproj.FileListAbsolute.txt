@@ -1,0 +1,11 @@
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\propostos_01\triangulo\triangulo\bin\Debug\triangulo.exe.config
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\propostos_01\triangulo\triangulo\bin\Debug\triangulo.exe
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\propostos_01\triangulo\triangulo\bin\Debug\triangulo.pdb
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\propostos_01\triangulo\triangulo\obj\Debug\triangulo.csproj.AssemblyReference.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\propostos_01\triangulo\triangulo\obj\Debug\triangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\propostos_01\triangulo\triangulo\obj\Debug\triangulo.Form1.resources
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\propostos_01\triangulo\triangulo\obj\Debug\triangulo.Properties.Resources.resources
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\propostos_01\triangulo\triangulo\obj\Debug\triangulo.csproj.GenerateResource.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\propostos_01\triangulo\triangulo\obj\Debug\triangulo.csproj.CoreCompileInputs.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\propostos_01\triangulo\triangulo\obj\Debug\triangulo.exe
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\propostos_01\triangulo\triangulo\obj\Debug\triangulo.pdb
