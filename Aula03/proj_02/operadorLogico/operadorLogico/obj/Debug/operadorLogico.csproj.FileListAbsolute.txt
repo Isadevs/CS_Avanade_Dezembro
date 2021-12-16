@@ -1,0 +1,11 @@
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_02\operadorLogico\operadorLogico\bin\Debug\operadorLogico.exe.config
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_02\operadorLogico\operadorLogico\bin\Debug\operadorLogico.exe
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_02\operadorLogico\operadorLogico\bin\Debug\operadorLogico.pdb
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_02\operadorLogico\operadorLogico\obj\Debug\operadorLogico.csproj.AssemblyReference.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_02\operadorLogico\operadorLogico\obj\Debug\operadorLogico.csproj.SuggestedBindingRedirects.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_02\operadorLogico\operadorLogico\obj\Debug\operadorLogico.Form1.resources
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_02\operadorLogico\operadorLogico\obj\Debug\operadorLogico.Properties.Resources.resources
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_02\operadorLogico\operadorLogico\obj\Debug\operadorLogico.csproj.GenerateResource.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_02\operadorLogico\operadorLogico\obj\Debug\operadorLogico.csproj.CoreCompileInputs.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_02\operadorLogico\operadorLogico\obj\Debug\operadorLogico.exe
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_02\operadorLogico\operadorLogico\obj\Debug\operadorLogico.pdb
