@@ -1,0 +1,11 @@
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula02\exProposto03\exProposto03\exProposto03\bin\Debug\exProposto03.exe.config
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula02\exProposto03\exProposto03\exProposto03\bin\Debug\exProposto03.exe
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula02\exProposto03\exProposto03\exProposto03\bin\Debug\exProposto03.pdb
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula02\exProposto03\exProposto03\exProposto03\obj\Debug\exProposto03.csproj.AssemblyReference.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula02\exProposto03\exProposto03\exProposto03\obj\Debug\exProposto03.csproj.SuggestedBindingRedirects.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula02\exProposto03\exProposto03\exProposto03\obj\Debug\exProposto03.Form1.resources
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula02\exProposto03\exProposto03\exProposto03\obj\Debug\exProposto03.Properties.Resources.resources
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula02\exProposto03\exProposto03\exProposto03\obj\Debug\exProposto03.csproj.GenerateResource.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula02\exProposto03\exProposto03\exProposto03\obj\Debug\exProposto03.csproj.CoreCompileInputs.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula02\exProposto03\exProposto03\exProposto03\obj\Debug\exProposto03.exe
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula02\exProposto03\exProposto03\exProposto03\obj\Debug\exProposto03.pdb
