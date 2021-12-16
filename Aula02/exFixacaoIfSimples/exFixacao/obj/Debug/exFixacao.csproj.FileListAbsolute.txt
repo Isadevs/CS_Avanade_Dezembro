@@ -1,0 +1,11 @@
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula2\estruturasCondicionais\exFixacao\exFixacao\bin\Debug\exFixacao.exe.config
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula2\estruturasCondicionais\exFixacao\exFixacao\bin\Debug\exFixacao.exe
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula2\estruturasCondicionais\exFixacao\exFixacao\bin\Debug\exFixacao.pdb
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula2\estruturasCondicionais\exFixacao\exFixacao\obj\Debug\exFixacao.csproj.AssemblyReference.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula2\estruturasCondicionais\exFixacao\exFixacao\obj\Debug\exFixacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula2\estruturasCondicionais\exFixacao\exFixacao\obj\Debug\exFixacao.Form1.resources
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula2\estruturasCondicionais\exFixacao\exFixacao\obj\Debug\exFixacao.Properties.Resources.resources
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula2\estruturasCondicionais\exFixacao\exFixacao\obj\Debug\exFixacao.csproj.GenerateResource.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula2\estruturasCondicionais\exFixacao\exFixacao\obj\Debug\exFixacao.csproj.CoreCompileInputs.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula2\estruturasCondicionais\exFixacao\exFixacao\obj\Debug\exFixacao.exe
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula2\estruturasCondicionais\exFixacao\exFixacao\obj\Debug\exFixacao.pdb
