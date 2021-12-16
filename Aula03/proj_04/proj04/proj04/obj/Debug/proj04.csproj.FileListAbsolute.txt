@@ -1,0 +1,11 @@
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_04\proj04\proj04\obj\Debug\proj04.csproj.AssemblyReference.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_04\proj04\proj04\obj\Debug\proj04.csproj.SuggestedBindingRedirects.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_04\proj04\proj04\obj\Debug\proj04.Form1.resources
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_04\proj04\proj04\obj\Debug\proj04.Properties.Resources.resources
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_04\proj04\proj04\obj\Debug\proj04.csproj.GenerateResource.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_04\proj04\proj04\obj\Debug\proj04.csproj.CoreCompileInputs.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_04\proj04\proj04\bin\Debug\proj04.exe.config
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_04\proj04\proj04\bin\Debug\proj04.exe
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_04\proj04\proj04\bin\Debug\proj04.pdb
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_04\proj04\proj04\obj\Debug\proj04.exe
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_04\proj04\proj04\obj\Debug\proj04.pdb
