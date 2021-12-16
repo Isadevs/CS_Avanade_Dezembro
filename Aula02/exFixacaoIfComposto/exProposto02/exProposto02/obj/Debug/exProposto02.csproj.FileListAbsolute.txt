@@ -1,0 +1,11 @@
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula2\estruturasCondicionais\exFixacaoIfComposto\exProposto02\exProposto02\bin\Debug\exProposto02.exe.config
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula2\estruturasCondicionais\exFixacaoIfComposto\exProposto02\exProposto02\bin\Debug\exProposto02.exe
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula2\estruturasCondicionais\exFixacaoIfComposto\exProposto02\exProposto02\bin\Debug\exProposto02.pdb
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula2\estruturasCondicionais\exFixacaoIfComposto\exProposto02\exProposto02\obj\Debug\exProposto02.csproj.AssemblyReference.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula2\estruturasCondicionais\exFixacaoIfComposto\exProposto02\exProposto02\obj\Debug\exProposto02.csproj.SuggestedBindingRedirects.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula2\estruturasCondicionais\exFixacaoIfComposto\exProposto02\exProposto02\obj\Debug\exProposto02.Form1.resources
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula2\estruturasCondicionais\exFixacaoIfComposto\exProposto02\exProposto02\obj\Debug\exProposto02.Properties.Resources.resources
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula2\estruturasCondicionais\exFixacaoIfComposto\exProposto02\exProposto02\obj\Debug\exProposto02.csproj.GenerateResource.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula2\estruturasCondicionais\exFixacaoIfComposto\exProposto02\exProposto02\obj\Debug\exProposto02.csproj.CoreCompileInputs.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula2\estruturasCondicionais\exFixacaoIfComposto\exProposto02\exProposto02\obj\Debug\exProposto02.exe
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula2\estruturasCondicionais\exFixacaoIfComposto\exProposto02\exProposto02\obj\Debug\exProposto02.pdb
