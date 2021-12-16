@@ -1,0 +1,11 @@
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_05\excomboBox\excomboBox\bin\Debug\excomboBox.exe.config
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_05\excomboBox\excomboBox\bin\Debug\excomboBox.exe
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_05\excomboBox\excomboBox\bin\Debug\excomboBox.pdb
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_05\excomboBox\excomboBox\obj\Debug\excomboBox.csproj.AssemblyReference.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_05\excomboBox\excomboBox\obj\Debug\excomboBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_05\excomboBox\excomboBox\obj\Debug\excomboBox.Form1.resources
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_05\excomboBox\excomboBox\obj\Debug\excomboBox.Properties.Resources.resources
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_05\excomboBox\excomboBox\obj\Debug\excomboBox.csproj.GenerateResource.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_05\excomboBox\excomboBox\obj\Debug\excomboBox.csproj.CoreCompileInputs.cache
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_05\excomboBox\excomboBox\obj\Debug\excomboBox.exe
+C:\Users\i.rodrigues.ramos\Desktop\aulaFiap\Aula03\operadorLogicoE\proj_05\excomboBox\excomboBox\obj\Debug\excomboBox.pdb
