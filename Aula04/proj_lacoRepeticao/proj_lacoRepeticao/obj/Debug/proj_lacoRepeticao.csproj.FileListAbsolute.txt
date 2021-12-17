@@ -1,0 +1,11 @@
+C:\fiap\proj_lacoRepeticao\proj_lacoRepeticao\bin\Debug\proj_lacoRepeticao.exe.config
+C:\fiap\proj_lacoRepeticao\proj_lacoRepeticao\bin\Debug\proj_lacoRepeticao.exe
+C:\fiap\proj_lacoRepeticao\proj_lacoRepeticao\bin\Debug\proj_lacoRepeticao.pdb
+C:\fiap\proj_lacoRepeticao\proj_lacoRepeticao\obj\Debug\proj_lacoRepeticao.csproj.AssemblyReference.cache
+C:\fiap\proj_lacoRepeticao\proj_lacoRepeticao\obj\Debug\proj_lacoRepeticao.csproj.SuggestedBindingRedirects.cache
+C:\fiap\proj_lacoRepeticao\proj_lacoRepeticao\obj\Debug\proj_lacoRepeticao.Form1.resources
+C:\fiap\proj_lacoRepeticao\proj_lacoRepeticao\obj\Debug\proj_lacoRepeticao.Properties.Resources.resources
+C:\fiap\proj_lacoRepeticao\proj_lacoRepeticao\obj\Debug\proj_lacoRepeticao.csproj.GenerateResource.cache
+C:\fiap\proj_lacoRepeticao\proj_lacoRepeticao\obj\Debug\proj_lacoRepeticao.csproj.CoreCompileInputs.cache
+C:\fiap\proj_lacoRepeticao\proj_lacoRepeticao\obj\Debug\proj_lacoRepeticao.exe
+C:\fiap\proj_lacoRepeticao\proj_lacoRepeticao\obj\Debug\proj_lacoRepeticao.pdb
