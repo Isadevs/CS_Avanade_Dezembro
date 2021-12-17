@@ -1,0 +1,11 @@
+C:\fiap\proj_somatorio\proj_somatorio\bin\Debug\proj_somatorio.exe.config
+C:\fiap\proj_somatorio\proj_somatorio\bin\Debug\proj_somatorio.exe
+C:\fiap\proj_somatorio\proj_somatorio\bin\Debug\proj_somatorio.pdb
+C:\fiap\proj_somatorio\proj_somatorio\obj\Debug\proj_somatorio.csproj.AssemblyReference.cache
+C:\fiap\proj_somatorio\proj_somatorio\obj\Debug\proj_somatorio.csproj.SuggestedBindingRedirects.cache
+C:\fiap\proj_somatorio\proj_somatorio\obj\Debug\proj_somatorio.Form1.resources
+C:\fiap\proj_somatorio\proj_somatorio\obj\Debug\proj_somatorio.Properties.Resources.resources
+C:\fiap\proj_somatorio\proj_somatorio\obj\Debug\proj_somatorio.csproj.GenerateResource.cache
+C:\fiap\proj_somatorio\proj_somatorio\obj\Debug\proj_somatorio.csproj.CoreCompileInputs.cache
+C:\fiap\proj_somatorio\proj_somatorio\obj\Debug\proj_somatorio.exe
+C:\fiap\proj_somatorio\proj_somatorio\obj\Debug\proj_somatorio.pdb
