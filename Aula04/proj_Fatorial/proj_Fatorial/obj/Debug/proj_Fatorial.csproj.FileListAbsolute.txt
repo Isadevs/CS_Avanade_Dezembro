@@ -1,0 +1,11 @@
+C:\fiap\proj_Fatorial\proj_Fatorial\bin\Debug\proj_Fatorial.exe.config
+C:\fiap\proj_Fatorial\proj_Fatorial\bin\Debug\proj_Fatorial.exe
+C:\fiap\proj_Fatorial\proj_Fatorial\bin\Debug\proj_Fatorial.pdb
+C:\fiap\proj_Fatorial\proj_Fatorial\obj\Debug\proj_Fatorial.csproj.AssemblyReference.cache
+C:\fiap\proj_Fatorial\proj_Fatorial\obj\Debug\proj_Fatorial.csproj.SuggestedBindingRedirects.cache
+C:\fiap\proj_Fatorial\proj_Fatorial\obj\Debug\proj_Fatorial.Form1.resources
+C:\fiap\proj_Fatorial\proj_Fatorial\obj\Debug\proj_Fatorial.Properties.Resources.resources
+C:\fiap\proj_Fatorial\proj_Fatorial\obj\Debug\proj_Fatorial.csproj.GenerateResource.cache
+C:\fiap\proj_Fatorial\proj_Fatorial\obj\Debug\proj_Fatorial.csproj.CoreCompileInputs.cache
+C:\fiap\proj_Fatorial\proj_Fatorial\obj\Debug\proj_Fatorial.exe
+C:\fiap\proj_Fatorial\proj_Fatorial\obj\Debug\proj_Fatorial.pdb
