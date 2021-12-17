@@ -1,0 +1,11 @@
+C:\fiap\proj_Pares\proj_Pares\bin\Debug\proj_Pares.exe.config
+C:\fiap\proj_Pares\proj_Pares\bin\Debug\proj_Pares.exe
+C:\fiap\proj_Pares\proj_Pares\bin\Debug\proj_Pares.pdb
+C:\fiap\proj_Pares\proj_Pares\obj\Debug\proj_Pares.csproj.AssemblyReference.cache
+C:\fiap\proj_Pares\proj_Pares\obj\Debug\proj_Pares.csproj.SuggestedBindingRedirects.cache
+C:\fiap\proj_Pares\proj_Pares\obj\Debug\proj_Pares.Form1.resources
+C:\fiap\proj_Pares\proj_Pares\obj\Debug\proj_Pares.Properties.Resources.resources
+C:\fiap\proj_Pares\proj_Pares\obj\Debug\proj_Pares.csproj.GenerateResource.cache
+C:\fiap\proj_Pares\proj_Pares\obj\Debug\proj_Pares.csproj.CoreCompileInputs.cache
+C:\fiap\proj_Pares\proj_Pares\obj\Debug\proj_Pares.exe
+C:\fiap\proj_Pares\proj_Pares\obj\Debug\proj_Pares.pdb
