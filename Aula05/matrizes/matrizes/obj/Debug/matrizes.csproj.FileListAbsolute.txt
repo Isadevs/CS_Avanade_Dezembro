@@ -1,0 +1,11 @@
+C:\fiap\matrizes\matrizes\bin\Debug\matrizes.exe.config
+C:\fiap\matrizes\matrizes\bin\Debug\matrizes.exe
+C:\fiap\matrizes\matrizes\bin\Debug\matrizes.pdb
+C:\fiap\matrizes\matrizes\obj\Debug\matrizes.csproj.AssemblyReference.cache
+C:\fiap\matrizes\matrizes\obj\Debug\matrizes.csproj.SuggestedBindingRedirects.cache
+C:\fiap\matrizes\matrizes\obj\Debug\matrizes.Form1.resources
+C:\fiap\matrizes\matrizes\obj\Debug\matrizes.Properties.Resources.resources
+C:\fiap\matrizes\matrizes\obj\Debug\matrizes.csproj.GenerateResource.cache
+C:\fiap\matrizes\matrizes\obj\Debug\matrizes.csproj.CoreCompileInputs.cache
+C:\fiap\matrizes\matrizes\obj\Debug\matrizes.exe
+C:\fiap\matrizes\matrizes\obj\Debug\matrizes.pdb
